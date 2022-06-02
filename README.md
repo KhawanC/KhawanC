@@ -5,9 +5,7 @@
 
 <h3 align="center">
 
-🔭 I’m currently working on [HyperLedger Mobility Project](https://github.com/KhawanC/Blockchain_Veicular.git)
-
-🌱 I’m currently learning **HyperLedger Fabric and Spring Boot**
+🔭 I’m currently working on [HyperLedger Mobility Project](https://github.com/KhawanC/Blockchain_Veicular.git) and [Spring Boot API](https://github.com/marinapsvreis/serratec-apirestfull-grupo5)
 
 👨‍💻 All of my projects are available at [https://github.com/KhawanC?tab=repositories](https://github.com/KhawanC?tab=repositories)
 </h3>
