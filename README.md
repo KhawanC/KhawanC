@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Kauã Cassiano</h1>
-<h3 align="center">I am an intern in Blockchain development at Inmetro and I recently joined a web development residency at Serratec</h3>
+<h3 align="center">Backend Developer</h3>
 
 # About Me:
 
 <h3 align="center">
 
-🔭 I’m currently working on [HyperLedger Mobility Project](https://github.com/KhawanC/Blockchain_Veicular.git) and [Spring Boot API](https://github.com/marinapsvreis/serratec-apirestfull-grupo5)
+- ☕ My main progamming language at the moment is: **Java with Spring Boot**
 
-👨‍💻 All of my projects are available at [https://github.com/KhawanC?tab=repositories](https://github.com/KhawanC?tab=repositories)
+- 📬 Contact me in: [kauacassiano121@gmail.com](kauacassiano121@gmail.com)
+
+- 🤙 I do some freelancing **If you want some backend application send me a message**
+
+- 🎮 Sometimes I like to watch tabletop RPG **Don't know waht is that? Start with 'Ordem Paranormal'**
+
 </h3>
 </p>
 <div>
