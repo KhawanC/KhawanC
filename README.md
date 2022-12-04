@@ -24,6 +24,6 @@
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=KhawanC&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhawanC&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KhawanC&theme=dark&hide_border=false&layout=compact&hide=python)
 
 </div>
