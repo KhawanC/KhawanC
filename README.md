@@ -5,11 +5,7 @@
 <h1 align="center">My name is Khawan and I'm a Fullstack developer</h1>
 
 <p align="center">
-  <strong>I like building systems and Discord bots, and this is where I keep all my projects.</strong>
-</p>
-
-<p align="center">
-  I play some videogames, watch anime, and I also like creating internet content with videos and programming lessons.
+  <strong>I like building systems and Discord bots, and this is where I keep all my projects. Also play some videogames, watch anime, and I also like creating internet content with videos and programming lessons.</strong>
 </p>
 
 <p align="center">
