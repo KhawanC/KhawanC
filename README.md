@@ -8,39 +8,35 @@
 
 ###
 
-<h6 align="left">My name is Khawan and I'm a Fullstack developer</h6>
+<h2 align="left">My name is Khawan and I'm a Fullstack developer</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">I like building systems and Discord bots, and this is where I keep all my projects. Check them out below <3</p>
+<h3 align="left">I like building systems and Discord bots, and this is where I keep all my projects. Check them out below <3</h3>
 
 ###
 
-<div align="right">
-  <img height="91" src="https://media.tenor.com/etfl8OlhPIYAAAAM/studying-anime-girl.gif"  />
-</div>
+<img align="left" height="200" src="https://media.tenor.com/etfl8OlhPIYAAAAM/studying-anime-girl.gif"  />
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="30" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="30" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="30" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="30" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="30" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="30" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="30" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
 </div>
 
@@ -48,13 +44,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaua-cassiano/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="20" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="28" height="20" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/clonazepam_k" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="20" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="28" height="20" alt="twitter logo"  />
   </a>
   <a href="khawan_c" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="20" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="28" height="20" alt="discord logo"  />
   </a>
 </div>
 
@@ -66,8 +62,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KhawanC/KhawanC/output/pacman-contribution-graph-dark.svg">
