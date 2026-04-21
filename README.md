@@ -47,7 +47,7 @@
 <h3 align="center">stats.log</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KhawanC&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=f8fafc&text_color=cbd5e1&icon_color=7dd3fc&rank_icon=github" alt="stats graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KhawanC&hide_title=true&show_icons=true&hide_border=true&bg_color=00000000&title_color=f8fafc&text_color=cbd5e1&icon_color=7dd3fc&rank_icon=github&cache_seconds=86400" alt="stats graph" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KhawanC&locale=en&hide_title=true&layout=compact&card_width=420&langs_count=6&hide_border=true&bg_color=00000000&title_color=f8fafc&text_color=cbd5e1" alt="languages graph" />
 </p>
 
